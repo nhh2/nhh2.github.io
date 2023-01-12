@@ -115,3 +115,9 @@ body {
   border: thin black solid;
   background-color: green;
 }
+
+.frigate {
+  width: 128px
+  height: 128px
+  object-fit: cover;
+}
